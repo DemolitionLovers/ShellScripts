@@ -1,6 +1,3 @@
-#!/bin/sh
-
-
 backup_file=$(date +%Y%m%d-%H%M)_$1
 backup_dir=.backups
 
