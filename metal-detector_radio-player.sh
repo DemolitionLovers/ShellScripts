@@ -1,5 +1,3 @@
-#!/bin/sh
-
 url="https://somafm.com/metal32.pls"
 agent_string='Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0'
 agent_print='Tor Browser (20201007)'
